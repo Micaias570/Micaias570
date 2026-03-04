@@ -1,62 +1,43 @@
-# 👨‍💻 Hi 👋, I'm Micaias Soares
-**A passionate Front-End Developer from Brazil 🇧🇷**
+<!-- assets/typing.svg -->
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="140" viewBox="0 0 900 140" role="img" aria-label="Typing header">
+  <style>
+    .bg { fill: #0f172a; }
+    .text { fill: #bfe0ff; font-family: "Segoe UI", Roboto, -apple-system, "Helvetica Neue", Arial; font-weight:700; font-size:36px; }
+    .cursor { fill:#60a5fa; }
+    /* mask animation using rect width */
+    .revealRect { fill: white; }
+    .sub { fill:#9fbbe6; font-size:16px; font-weight:500; }
+  </style>
 
-📧 Email: **pixelvault033@gmail.com**  
-💬 Open for collaboration, projects and learning opportunities.
+  <!-- background rounded -->
+  <rect rx="12" ry="12" width="900" height="140" class="bg"/>
 
-- 🔭 **Currently working on:** Front-End projects and web interfaces  
-- 🌱 **Currently learning:** HTML, CSS, JavaScript and modern web development  
-- 👯 **Looking to collaborate on:** Web development projects  
-- 🤔 **Looking for help with:** Improving my programming skills  
-- 💬 **Ask me about:** Web development, technology and digital projects  
-- 📫 **How to reach me:** pixelvault033@gmail.com  
-- ⚡ **Fun fact:** I love technology and building digital projects.
+  <!-- floating accent circles -->
+  <g opacity="0.12" transform="translate(720,20)">
+    <circle r="40" fill="#60a5fa">
+      <animate attributeName="cy" dur="6s" values="0;12;0" repeatCount="indefinite" />
+    </circle>
+  </g>
 
----
+  <!-- text and masked reveal -->
+  <defs>
+    <mask id="reveal">
+      <rect x="0" y="0" width="900" height="140" fill="black"/>
+      <!-- The white rect will expose the text progressively -->
+      <rect id="mrect" x="30" y="40" width="0" height="60" class="revealRect">
+        <animate attributeName="width" from="0" to="820" dur="4.5s" begin="0.3s" fill="freeze" />
+      </rect>
+    </mask>
+  </defs>
 
-# 🌐 Socials
+  <g mask="url(#reveal)">
+    <text x="40" y="75" class="text">👋 Olá — eu sou Micaias Soares</text>
+    <text x="40" y="102" class="sub">Front-End Developer • HTML • CSS • JavaScript • React</text>
+  </g>
 
-[![Instagram](https://img.shields.io/badge/Instagram-mcss__ofc-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/mcss_ofc/)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Micaias%20Soares-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com)  
-
----
-
-# 💻 Tech Stack
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)  
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-# 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=Micaias570&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Micaias570&theme=tokyonight&hide_border=false&layout=compact)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=Micaias570&theme=tokyonight&hide_border=false)
-
----
-
-# 🧠 Currently Learning
-
-- Front-End Development  
-- Responsive Web Design  
-- JavaScript Projects  
-- Git & GitHub Workflow  
-
----
-
-# 🚀 Goals
-
-- Become a professional **Front-End Developer**  
-- Build real-world web applications  
-- Contribute to open-source projects  
-- Work with modern web technologies
-
----
-
-![Profile Views](https://komarev.com/ghpvc/?username=Micaias570&color=blue)
+  <!-- blinking cursor (positioned at end, synchronized approx.) -->
+  <rect x="520" y="48" width="8" height="36" class="cursor">
+    <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite" />
+    <animate attributeName="x" values="520;760" dur="4.5s" begin="0.3s" fill="freeze" />
+  </rect>
+</svg>
