@@ -31,7 +31,7 @@ Também trabalho com **design digital, automações e ferramentas de inteligênc
             src="https://custom-icon-badges.demolab.com/github/stars/Micaias570?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/Larissakich?tab=followers">
+    <a href="https://github.com/Micaias570?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
