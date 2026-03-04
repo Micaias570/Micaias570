@@ -24,7 +24,7 @@ Também trabalho com **design digital, automações e ferramentas de inteligênc
     />
 </a>
     </a> 
-    <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
+    <a href="https://github.com/Micaias570?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
