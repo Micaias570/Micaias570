@@ -1,110 +1,62 @@
-## 👨‍💻 Micaias Soares
+# 👨‍💻 Hi 👋, I'm Micaias Soares
+**A passionate Front-End Developer from Brazil 🇧🇷**
 
-**Front-End Developer**
+📧 Email: **pixelvault033@gmail.com**  
+💬 Open for collaboration, projects and learning opportunities.
 
-Me chamo **Micaias Soares** e sou desenvolvedor front-end em formação, apaixonado por tecnologia, programação e criação de projetos digitais.
-Atualmente estudo **desenvolvimento web moderno**, focado em **HTML, CSS, JavaScript e CSS**, criando projetos práticos para evoluir minhas habilidades e construir um portfólio sólido.
-Também trabalho com **design digital, automações e ferramentas de inteligência artificial**, buscando sempre aprender novas tecnologias e melhorar minhas habilidades todos os dias. Meu objetivo é trabalhar como **Desenvolvedor Front-End** e criar aplicações modernas, rápidas e funcionais..
-
-<p align="left">
-   <a href="https://www.instagram.com/mcss_ofc/?__pwa=1#" target="_blank" rel="noopener noreferrer">
-     
-  <img
-    alt="Instagram - 1500 seguidores"
-    title="Siga no Instagram"
-    src="https://custom-icon-badges.demolab.com/badge/Instagram-1500%20seguidores?logo=instagram&logoColor=white&style=for-the-badge&color=%23E1306C&labelColor=%23C13584"
-  />
-</a>
-    </a>
- <a href="https://www.instagram.com/mcss_ofc/?__pwa=1#">
-    <img 
-        alt="Instagram views" 
-        title="Visualizações no Instagram" 
-        src="https://custom-icon-badges.demolab.com/badge/Visualização-23k-views?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
-    />
-</a>
-    </a> 
-    <a href="https://github.com/Micaias570?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Micaias570?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/Micaias570?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Micaias570?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
+- 🔭 **Currently working on:** Front-End projects and web interfaces  
+- 🌱 **Currently learning:** HTML, CSS, JavaScript and modern web development  
+- 👯 **Looking to collaborate on:** Web development projects  
+- 🤔 **Looking for help with:** Improving my programming skills  
+- 💬 **Ask me about:** Web development, technology and digital projects  
+- 📫 **How to reach me:** pixelvault033@gmail.com  
+- ⚡ **Fun fact:** I love technology and building digital projects.
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+# 🌐 Socials
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
+[![Instagram](https://img.shields.io/badge/Instagram-mcss__ofc-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/mcss_ofc/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Micaias%20Soares-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com)  
 
-<br/>
-<br/>
+---
 
-### 📊 Estatísticas
+# 💻 Tech Stack
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Micaias570&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&cache_seconds=1" 
-  />
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)  
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-  <img 
-    align="left" 
-    alt="Tecnologias mais usadas" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Micaias570&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&cache_seconds=1" 
-  />
-</p>
+---
 
-</p>
+# 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=Micaias570&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Micaias570&theme=tokyonight&hide_border=false&layout=compact)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=Micaias570&theme=tokyonight&hide_border=false)
+
+---
+
+# 🧠 Currently Learning
+
+- Front-End Development  
+- Responsive Web Design  
+- JavaScript Projects  
+- Git & GitHub Workflow  
+
+---
+
+# 🚀 Goals
+
+- Become a professional **Front-End Developer**  
+- Build real-world web applications  
+- Contribute to open-source projects  
+- Work with modern web technologies
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=Micaias570&color=blue)
