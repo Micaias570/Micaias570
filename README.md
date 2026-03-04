@@ -1,6 +1,6 @@
-## # 👩🏻‍💻 Larissa Kich
+## 👨‍💻 Micaias Soares
 
-**Desenvolvedora FullStack**
+**Front-End Developer**
 
 Me chamo **Micaias Soares** e sou desenvolvedor front-end em formação, apaixonado por tecnologia, programação e criação de projetos digitais.
 Atualmente estudo **desenvolvimento web moderno**, focado em **HTML, CSS, JavaScript e CSS**, criando projetos práticos para evoluir minhas habilidades e construir um portfólio sólido.
