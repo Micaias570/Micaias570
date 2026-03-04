@@ -1,6 +1,6 @@
 # 💫 Hi 👋, I'm Imran Alam
 <p align="center">
-<img src="https://imgur.com/gallery/xx-IlS97xT#iTqviRN" width="600">
+<img src="https://i.imgur.com/iTqviRN.png" width="800">
 </p>
 **A passionate Cloud Engineer || DevOps Engineer || Kafka Admin from India**
 
