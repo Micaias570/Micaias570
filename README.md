@@ -1,10 +1,10 @@
-# 💫 Hi 👋, I'm Imran Alam
+#  Olá, eu sou Micaias Soares
 <p align="center">
-<img src="https://i.imgur.com/iTqviRN.png" width="800">
+<img src="https://i.imgur.com/GHMZZfM.png" width="800">
 </p>
-**A passionate Cloud Engineer || DevOps Engineer || Kafka Admin from India**
+**Web Developer | App Developer | Passionate about building modern web and mobile applications**
 
-Email Me 👉 ✉️ **alamimran613@live.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **micaiassoares406@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** Enter your project info here
 - 🌱 **I’m currently learning:** Enter your tech here
