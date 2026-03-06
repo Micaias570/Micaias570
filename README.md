@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="" alt="Banner" style="max-width:1200px; width:100%; border-radius:10px; box-shadow: 0 12px 40px rgba(111, 66, 193,0.35)"/>
+  <img src="https://i.imgur.com/9hjFMTy.png" alt="Banner" style="max-width:800px; width:500px; border-radius:10px; box-shadow: 0 12px 40px rgba(111, 66, 193,0.35)"/>
 </p>
 
 <!-- page split: left column profile / right column content -->
