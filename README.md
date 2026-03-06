@@ -12,10 +12,6 @@
   <a href="https://www.instagram.com/micaias.codes.br/?__pwa=1#" target="_blank"><img src="https://img.shields.io/badge/Instagram-@micaias.codes.br-E1306C?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </p>
 
-<p align="center">
-  <img src="https://i.imgur.com/9hjFMTy.png" alt="Banner" style="max-width:800px; width:500px; border-radius:10px; box-shadow: 0 12px 40px rgba(111, 66, 193,0.35)"/>
-</p>
-
 <!-- page split: left column profile / right column content -->
 <table width="100%" style="border:none">
 <tr valign="top">
@@ -135,7 +131,7 @@
   <hr style="border:none; border-top:1px solid rgba(130,110,220,0.10)">
 
   <p align="center">
-    <img src="./assets/footer-art.png" alt="footer art" style="width:100%; max-height:220px; object-fit:cover; border-radius:8px; box-shadow: 0 12px 30px rgba(110,0,255,0.08)"/>
+    <img src="https://i.imgur.com/9hjFMTy.png" alt="footer art" style="width:500px; max-height:220px; object-fit:cover; border-radius:8px; box-shadow: 0 12px 30px rgba(110,0,255,0.08)"/>
   </p>
 
 </td>
