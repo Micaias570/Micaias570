@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/banner.png" alt="Banner" style="max-width:1200px; width:100%; border-radius:10px; box-shadow: 0 12px 40px rgba(111, 66, 193,0.35)"/>
+  <img src="" alt="Banner" style="max-width:1200px; width:100%; border-radius:10px; box-shadow: 0 12px 40px rgba(111, 66, 193,0.35)"/>
 </p>
 
 <!-- page split: left column profile / right column content -->
@@ -22,7 +22,7 @@
 <td width="28%" style="padding-right:22px; border:none;">
 
   <div align="center">
-    <img src="./assets/avatar.png" alt="avatar" width="170" style="border-radius:50%; border:5px solid #6e00ff; box-shadow: 0 12px 30px rgba(110,0,255,0.25)" />
+    <img src="https://i.imgur.com/KLMJJzS.png" alt="avatar" width="170" style="border-radius:50%; border:5px solid #6e00ff; box-shadow: 0 12px 30px rgba(110,0,255,0.25)" />
     <h2 style="margin:8px 0 0 0; color:#cfc3ff">Micaias Soares</h2>
     <p style="margin:4px 0 12px 0; color:#bfb7ff"><em>Front-End & App Developer</em></p>
   </div>
