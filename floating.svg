@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400" role="img" aria-hidden="true">
+  <defs>
+    <linearGradient id="g1" x1="0" x2="1">
+      <stop offset="0" stop-color="#7db9ff" />
+      <stop offset="1" stop-color="#4aa3ff" />
+    </linearGradient>
+    <linearGradient id="g2" x1="0" x2="1">
+      <stop offset="0" stop-color="#ffd08a" />
+      <stop offset="1" stop-color="#ffb36b" />
+    </linearGradient>
+    <filter id="softBlur" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="10" result="b"/>
+      <feBlend in="SourceGraphic" in2="b"/>
+    </filter>
+  </defs>
+
+  <!-- Left floating blob -->
+  <path id="blob-left" fill="url(#g1)" opacity="0.92" filter="url(#softBlur)"
+        d="M120 220 C70 160, 130 80, 210 110 C290 140, 260 260, 180 290 C120 300, 90 260, 120 220 Z">
+    <animateTransform attributeName="transform" type="translate" values="0 0; -8 -12; 6 -6; 0 0" dur="7s" repeatCount="indefinite"/>
+    <animateTransform attributeName="transform" type="rotate" values="0 1 1; 2 1 1; -1 1 1; 0 1 1" dur="9s" additive="sum" repeatCount="indefinite"/>
+  </path>
+
+  <!-- Right floating blob -->
+  <path id="blob-right" fill="url(#g2)" opacity="0.88"
+        d="M560 140 C620 80, 740 100, 720 200 C700 300, 600 320, 540 240 C520 200, 520 160, 560 140 Z">
+    <animateTransform attributeName="transform" type="translate" values="0 0; 10 -10; -6 -4; 0 0" dur="8s" repeatCount="indefinite"/>
+    <animateTransform attributeName="transform" type="rotate" values="0 1 1; -3 1 1; 1 1 1; 0 1 1" dur="10s" additive="sum" repeatCount="indefinite"/>
+  </path>
+
+  <!-- Small accent circles -->
+  <g id="accents" opacity="0.95">
+    <circle cx="320" cy="70" r="18" fill="#ffffff" opacity="0.06">
+      <animateTransform attributeName="transform" type="translate" values="0 0; 0 -6; 0 0" dur="4.5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="460" cy="320" r="10" fill="#ffffff" opacity="0.06">
+      <animateTransform attributeName="transform" type="translate" values="0 0; 0 -4; 0 0" dur="5.4s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="180" cy="60" r="8" fill="#ffffff" opacity="0.05">
+      <animateTransform attributeName="transform" type="translate" values="0 0; 0 -5; 0 0" dur="6.1s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <!-- Optional: add a small id/class so the SVG can be targeted by CSS when inlined -->
+  <style><![CDATA[
+    /* when SVG is inlined you can override with .floating-svg :root or #blob-left { fill: #... } */
+  ]]></style>
+</svg>
