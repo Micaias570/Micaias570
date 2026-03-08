@@ -70,12 +70,12 @@
   <table style="width:100%; border:none; margin-top:12px">
     <tr>
       <td style="vertical-align:top; padding:8px;">
-        <img src="./assets/project-landing.png" alt="Landing" width="100%" style="border-radius:10px; box-shadow: 0 10px 30px rgba(0,0,0,0.45)"/>
+        <img src="https://i.imgur.com/5xDjB7Y.png" alt="Landing" width="400px" style="border-radius:10px; box-shadow: 0 10px 30px rgba(0,0,0,0.45)"/>
         <p style="margin:8px 0 0 0"><strong>Landing Otimizada</strong> • HTML • CSS • JS • 3 dias<br/>
         <a href="https://github.com/Micaias570/landing-freelance" style="color:#b9a9ff">Repo</a> • <a href="#" style="color:#b9a9ff">Demo</a></p>
       </td>
       <td style="vertical-align:top; padding:8px;">
-        <img src="./assets/project-todo.png" alt="ToDo" width="100%" style="border-radius:10px; box-shadow: 0 10px 30px rgba(0,0,0,0.45)"/>
+        <img src="https://i.imgur.com/0xcyOPD.png" alt="ToDo" width="320px" style="border-radius:10px; box-shadow: 0 10px 30px rgba(0,0,0,0.45)"/>
         <p style="margin:8px 0 0 0"><strong>ToDo CRUD (React)</strong> • React • Vite • 4 dias<br/>
         <a href="https://github.com/Micaias570/todo-crud" style="color:#b9a9ff">Repo</a> • <a href="#" style="color:#b9a9ff">Demo</a></p>
       </td>
